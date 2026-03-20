@@ -1,0 +1,21 @@
+# --- Build Artifacts ---
+# These are generated automatically during 'make' 
+build/
+*.nro
+*.elf
+*.nacp
+*.pfs0
+
+# --- Debug and Mapping Files ---
+# Created by the compiler and linker 
+*.map
+*.lst
+*.o
+*.d
+
+# --- System & Editor Files ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
