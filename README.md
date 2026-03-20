@@ -23,9 +23,6 @@
 <p align="center">
   <img src="Screenshot.jpg" alt="Red Roulette Interface" width="100%">
 </p>
-<p align="center">
-  <em>The main interface featuring the central Roulette and control hint box.</em>
-</p>
 
 ## 📥 Installation
 Download the **RedRoulette.nro** and place it in the `/switch/` folder on your SD card.
